@@ -1,0 +1,88 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,nickName.firstName, nickName.lastName
+Rohit,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,male,Tony, Tyson
+Ananya,Sharma,28,B-120 Green Apartments,,Delhi,Delhi,female
+Aditya,Kumar,42,C-45 Industrial Area,,Mumbai,Maharashtra,male
+Sneha,Rao,31,Plot 23 Garden View,Phase 2,Bangalore,Karnataka,female
+Kunal,Verma,29,,,Kolkata,West Bengal,male
+Ishita,Patel,33,12/A Sunrise Tower,Near City Center,Ahmedabad,Gujarat,female
+Amit,Singh,40,,Gandhi Nagar,Jaipur,Rajasthan,male
+Priya,Chopra,26,,Near Lake View,Pune,Maharashtra,female
+Rahul,Mehra,38,D-78 Sector 56,,Noida,Uttar Pradesh,male
+Nikita,Agarwal,30,A-101 Bliss Apartments,,Chennai,Tamil Nadu,female
+Ravi,Gupta,45,,Market Road,Lucknow,Uttar Pradesh,male
+Meera,Joshi,27,House No 14,,Nagpur,Maharashtra,female
+Abhishek,Nair,36,Flat 3B Riviera Complex,,Kochi,Kerala,male
+Riya,Malhotra,24,,Sector 22,Gurgaon,Haryana,female
+Suresh,Pandey,41,5th Cross Road,Near Temple,Mysore,Karnataka,male
+Aarav,Jain,34,,Old City,Hyderabad,Telangana,male
+Pooja,Kulkarni,29,Flat 4 Sunrise Residency,,Pune,Maharashtra,female
+Vikas,Banerjee,37,B-201 Skyline Apartments,,Kolkata,West Bengal,male
+Neha,Das,32,,,Bhubaneswar,Odisha,female
+Manish,Thakur,43,House No 7,Park Avenue,Bhopal,Madhya Pradesh,male
+Rashmi,Iyer,28,Flat 8B Green View,,Bangalore,Karnataka,female
+Harsh,Vyas,39,,,Surat,Gujarat,male
+Komal,Shukla,25,,Hill View,Dehradun,Uttarakhand,female
+Yash,Dubey,31,C-45 New Colony,,Indore,Madhya Pradesh,male
+Swati,Kapoor,36,House No 5,Near School,Amritsar,Punjab,female
+Rohan,Chawla,27,Plot 56 Sunrise Villas,,Chandigarh,Chandigarh,male
+Isha,Mahajan,30,,Park Road,Shimla,Himachal Pradesh,female
+Rajesh,Pillai,44,B-12 Waterfront Towers,,Thiruvananthapuram,Kerala,male
+Shreya,Goswami,23,,Near Mall,Patna,Bihar,female
+Tarun,Khatri,35,Plot 18 Sunrise Valley,,Jaipur,Rajasthan,male
+Nandini,Mishra,34,,,Kanpur,Uttar Pradesh,female
+Arjun,Sen,29,Flat 5A Sea View,,Mumbai,Maharashtra,male
+Deepa,Reddy,33,Plot 78 Hilltop Residency,,Hyderabad,Telangana,female
+Karan,Chopra,41,,Downtown Street,Chennai,Tamil Nadu,male
+Akanksha,Shetty,26,Flat 9B Blue Horizon,,Mangalore,Karnataka,female
+Siddharth,Goel,37,,Near Railway Station,Delhi,Delhi,male
+Pallavi,Chatterjee,31,House No 3,Cross Road,Kolkata,West Bengal,female
+Varun,Kaushik,40,A-89 New Apartments,,Bangalore,Karnataka,male
+Lavanya,Saxena,28,,Market Area,Lucknow,Uttar Pradesh,female
+Kabir,Mohanty,42,Flat 10B Riverfront,,Cuttack,Odisha,male
+Anushka,Gupta,25,,City Plaza,Agra,Uttar Pradesh,female
+Jay,Shah,34,Plot 3 Sunrise Complex,,Ahmedabad,Gujarat,male
+Kavita,Tiwari,38,B-12 Park Lane,,Jaipur,Rajasthan,female
+Nitin,Bansal,45,,,Noida,Uttar Pradesh,male
+Alka,Singhal,26,Flat 2B Hillview Residency,,Pune,Maharashtra,female
+Sanjay,Menon,39,House No 21,Near Airport,Kochi,Kerala,male
+Divya,Bhardwaj,29,,,Bhubaneswar,Odisha,female
+Raghav,Rastogi,32,C-45 Urban Colony,,Lucknow,Uttar Pradesh,male
+Simran,Gupta,24,House No 8,Near Park,Delhi,Delhi,female
+Harish,Chandra,41,,,Varanasi,Uttar Pradesh,male
+Preeti,Kapadia,27,,Sector 8,Surat,Gujarat,female
+Vikram,Shinde,36,A-12 Sky Apartments,,Pune,Maharashtra,male
+Snehal,Patil,33,,,Nagpur,Maharashtra,female
+Rajiv,Bhatia,43,Plot 9 Green Avenue,,Chandigarh,Chandigarh,male
+Anjali,Thakur,31,Flat 6A Downtown Residency,,Mumbai,Maharashtra,female
+Omkar,Kulkarni,30,House No 15,Near River,Pune,Maharashtra,male
+Tanya,Srivastava,28,,,Varanasi,Uttar Pradesh,female
+Arvind,Yadav,42,,City Mall,Lucknow,Uttar Pradesh,male
+Neeraj,Kohli,40,B-7 Waterfront View,,Kolkata,West Bengal,male
+Garima,Rana,24,,,Shimla,Himachal Pradesh,female
+Raj,Lalwani,38,Flat 3B Sea Breeze,,Chennai,Tamil Nadu,male
+Shilpa,Nair,35,House No 12,Near Market,Kochi,Kerala,female
+Ashwin,Mishra,31,,Near Temple,Bhopal,Madhya Pradesh,male
+Megha,Dutta,29,B-9 Riverfront Towers,,Guwahati,Assam,female
+Keshav,Singh,44,,,Lucknow,Uttar Pradesh,male
+Anita,Raj,27,Flat 7B Park View,,Mumbai,Maharashtra,female
+Saurabh,Mehta,40,A-56 Skyline Complex,,Jaipur,Rajasthan,male
+Priyanka,Pillai,26,Plot 89 Sunrise Hills,,Thiruvananthapuram,Kerala,female
+Vivek,Agarwal,34,,Downtown Area,Ahmedabad,Gujarat,male
+Ritu,Gupta,30,Flat 5B Sunshine Residency,,Delhi,Delhi,female
+Nilesh,Rane,41,House No 20,,Pune,Maharashtra,male
+Sonal,Bhargava,25,,Near School,Jaipur,Rajasthan,female
+Kartik,Sharma,38,Plot 4B Hillview,,Shimla,Himachal Pradesh,male
+Ayesha,Khan,29,,Market Lane,Bhopal,Madhya Pradesh,female
+Chirag,Joshi,37,B-10 Green Park,,Mumbai,Maharashtra,male
+Radhika,Bose,31,,,Kolkata,West Bengal,female
+Ishan,Kapoor,36,Flat 12A Waterfront,,Chennai,Tamil Nadu,male
+Tanvi,Ahuja,24,Plot 11B Sunrise Residency,,Bangalore,Karnataka,female
+Gaurav,Shah,42,,,Ahmedabad,Gujarat,male
+Poonam,Patil,28,House No 9,Near Mall,Pune,Maharashtra,female
+Ajay,Nigam,39,B-5 Park Avenue,,Noida,Uttar Pradesh,male
+Shruti,Desai,30,Flat 4B River View,,Surat,Gujarat,female
+Himanshu,Arora,33,,Near Temple,Agra,Uttar Pradesh,male
+Ritika,Mittal,26,A-8 Green Valley,,Chandigarh,Chandigarh,female
+Mohit,Malik,37,Plot 23 Urban View,,Delhi,Delhi,male
+Naina,Reddy,34,Flat 2 Sunrise Hills,,Hyderabad,Telangana,female
+Ravi,Kashyap,31,,,Lucknow,Uttar Pradesh,male
