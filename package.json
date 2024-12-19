@@ -1,0 +1,22 @@
+{
+  "name": "practiceproject6",
+  "version": "1.0.0",
+  "description": "a practice backend project written in express.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon -r dotenv/config src/index.js"
+  },
+  "author": "Siddhant Meshram",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table3": "^0.6.5",
+    "console-table-printer": "^2.12.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
